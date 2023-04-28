@@ -6,7 +6,8 @@
 	],
 	"settings": {
 		"files.associations": {
-			"modbus.h": "c"
+			"modbus.h": "c",
+			"errno.h": "c"
 		}
 	}
 }

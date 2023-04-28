@@ -8,7 +8,7 @@
 #ifndef _MSC_VER
 #include <unistd.h>
 #endif
-#include "modbus.h"
+#include "..\src\modbus.h"
 #include <errno.h>
 #include <stdlib.h>
 
