@@ -8,10 +8,9 @@
 #ifndef _MSC_VER
 #include <unistd.h>
 #endif
+#include "modbus.h"
 #include <errno.h>
 #include <stdlib.h>
-
-#include <modbus.h>
 
 int main(void)
 {
