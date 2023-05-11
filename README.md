@@ -1,4 +1,4 @@
-# A groovy modbus library
+# Modbus project using the libmodbus library from https://github.com/stephane/libmodbus created with Microsoft Visual Studio Code 1.78.0
 
 ![Build Status](https://github.com/stephane/libmodbus/actions/workflows/build.yml/badge.svg)
 
