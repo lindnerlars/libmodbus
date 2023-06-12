@@ -1,6 +1,7 @@
-#include <modbus-version.h.in>
-#include <modbus.h>
 #include <stdio.h>
+
+#include "modbus-version.h.in"
+#include "modbus.h"
 
 int main(void)
 {
